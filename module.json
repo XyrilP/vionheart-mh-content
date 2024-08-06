@@ -1,7 +1,7 @@
 {
   "id": "vionheart-mh-content",
   "title": "Vionheart MH Content",
-  "manifest": "https://raw.githubusercontent.com/XyrilP/vionheart-mh-content/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/XyrilP/vionheart-mh-content/main/module.json?token=GHSAT0AAAAAACUI25O4ZY3M7HKYEDBJEOYQZVSTYNQ",
   "download": "https://github.com/XyrilP/vionheart-mh-content/archive/refs/tags/Release.zip",
   "version": "1.0",
   "compatibility": {
