@@ -1,9 +1,9 @@
 {
   "id": "vionheart-mh-content",
-  "title": "Vionheart MH Content",
+  "title": "Vionheart Content (Monster Hunter)",
   "manifest": "https://raw.githubusercontent.com/XyrilP/vionheart-mh-content/main/module.json?token=GHSAT0AAAAAACUI25O4ZY3M7HKYEDBJEOYQZVSTYNQ",
   "download": "https://github.com/XyrilP/vionheart-mh-content/archive/refs/tags/Release.zip",
-  "version": "1.0",
+  "version": "1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -83,86 +83,83 @@
       "label": "Vionheart MH Actions",
       "path": "packs/vionheart-mh-actions",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
-	"flags": {
-        "vionheart-mh-content": {
-            "pf2e-homebrew": {
-                "skills": {
-                    "additional": {}
-                },
-                "baseArmors": {},
-                "baseWeapons": {
-					"great-sword": "Great Sword",
-					"long-sword": "Long Sword",
-					"sword-and-shield": "Sword & Shield",
-					"dual-blades": "Dual Blades",
-					"hunting-hammer": "Hunting Hammer",
-					"hunting-horn": "Hunting Horn",
-					"hunting-lance": "Hunting Lance",
-					"gunlance": "Gunlance",
-					"switch-axe": "Switch Axe",
-					"insect-glaive": "Insect Glaive",
-					"charge-blade": "Charge Blade",
-					"light-bowgun": "Light Bowgun",
-					"heavy-bowgun": "Heavy Bowgun",
-					"hunting-bow": "Hunting Bow"
-				},
-                "languages": {
-				},
-                "weaponGroups": {},
-                "creatureTraits": {
-				},
-                "featTraits": {
-					"hunter": {
-						"label": "Hunter",
-						"description": "You can take a Hunter feat as long as you meet the prerequisites, regardless of what class you have."
-					},
-						"great-sword": "Great Sword",
-						"long-sword": "Long Sword",
-						"sword-and-shield": "Sword & Shield",
-						"dual-blades": "Dual Blades",
-						"hunting-hammer": "Hunting Hammer",
-						"hunting-horn": "Hunting Horn",
-						"hunting-lance": "Hunting Lance",
-						"gunlance": "Gunlance",
-						"switch-axe": "Switch Axe",
-						"insect-glaive": "Insect Glaive",
-						"charge-blade": "Charge Blade",
-						"light-bowgun": "Light Bowgun",
-						"heavy-bowgun": "Heavy Bowgun",
-						"hunting-bow": "Hunting Bow",
-					"hunter-art": "Hunter Art",
-					"hunter-style": "Hunter Style"
-				},
-                "spellTraits": {
-                },
-                "weaponTraits": {
-					"deadly-2d12": "Deadly 2d12"
-                },
-				"equipmentTraits": {
-					"hunter": "Hunter",
-						"great-sword": "Great Sword",
-						"long-sword": "Long Sword",
-						"sword-and-shield": "Sword & Shield",
-						"dual-blades": "Dual Blades",
-						"hunting-hammer": "Hunting Hammer",
-						"hunting-horn": "Hunting Horn",
-						"hunting-lance": "Hunting Lance",
-						"gunlance": "Gunlance",
-						"switch-axe": "Switch Axe",
-						"insect-glaive": "Insect Glaive",
-						"charge-blade": "Charge Blade",
-						"light-bowgun": "Light Bowgun",
-						"heavy-bowgun": "Heavy Bowgun",
-						"hunting-bow": "Hunting Bow"
-				}
-            }
+  "flags": {
+    "vionheart-mh-content": {
+      "pf2e-homebrew": {
+        "skills": {
+          "additional": {}
+        },
+        "baseArmors": {},
+        "baseWeapons": {
+          "great-sword": "Great Sword",
+          "long-sword": "Long Sword",
+          "sword-and-shield": "Sword & Shield",
+          "dual-blades": "Dual Blades",
+          "hunting-hammer": "Hunting Hammer",
+          "hunting-horn": "Hunting Horn",
+          "hunting-lance": "Hunting Lance",
+          "gunlance": "Gunlance",
+          "switch-axe": "Switch Axe",
+          "insect-glaive": "Insect Glaive",
+          "charge-blade": "Charge Blade",
+          "light-bowgun": "Light Bowgun",
+          "heavy-bowgun": "Heavy Bowgun",
+          "hunting-bow": "Hunting Bow"
+        },
+        "languages": {},
+        "weaponGroups": {},
+        "creatureTraits": {},
+        "featTraits": {
+          "hunter": {
+            "label": "Hunter",
+            "description": "You can take a Hunter feat as long as you meet the prerequisites, regardless of what class you have."
+          },
+          "great-sword": "Great Sword",
+          "long-sword": "Long Sword",
+          "sword-and-shield": "Sword & Shield",
+          "dual-blades": "Dual Blades",
+          "hunting-hammer": "Hunting Hammer",
+          "hunting-horn": "Hunting Horn",
+          "hunting-lance": "Hunting Lance",
+          "gunlance": "Gunlance",
+          "switch-axe": "Switch Axe",
+          "insect-glaive": "Insect Glaive",
+          "charge-blade": "Charge Blade",
+          "light-bowgun": "Light Bowgun",
+          "heavy-bowgun": "Heavy Bowgun",
+          "hunting-bow": "Hunting Bow",
+          "hunter-art": "Hunter Art",
+          "hunter-style": "Hunter Style"
+        },
+        "spellTraits": {},
+        "weaponTraits": {
+          "deadly-2d12": "Deadly 2d12"
+        },
+        "equipmentTraits": {
+          "hunter": "Hunter",
+          "great-sword": "Great Sword",
+          "long-sword": "Long Sword",
+          "sword-and-shield": "Sword & Shield",
+          "dual-blades": "Dual Blades",
+          "hunting-hammer": "Hunting Hammer",
+          "hunting-horn": "Hunting Horn",
+          "hunting-lance": "Hunting Lance",
+          "gunlance": "Gunlance",
+          "switch-axe": "Switch Axe",
+          "insect-glaive": "Insect Glaive",
+          "charge-blade": "Charge Blade",
+          "light-bowgun": "Light Bowgun",
+          "heavy-bowgun": "Heavy Bowgun",
+          "hunting-bow": "Hunting Bow"
         }
+      }
     }
+  }
 }
