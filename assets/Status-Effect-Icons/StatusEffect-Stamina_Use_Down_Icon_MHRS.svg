@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg1401"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="StatusEffect-Stamina Use Down MHRise.svg">
+  <defs
+     id="defs1395">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-9" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-4" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-92" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-2" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1263"
+       x="-0.044957139"
+       width="1.0899143"
+       y="-0.090171936"
+       height="1.1803439">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27754584"
+         id="feGaussianBlur1265" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="59.827038"
+     inkscape:cy="40.245877"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1398">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <path
+       id="path1229"
+       d="M 15.875222,284.83976 H 5.5671317 l -4.5084668,7.38711 H 11.387922 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.25399813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1263)"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1231"
+       d="M 15.875222,284.81859 H 5.5671317 l -4.5084668,7.40828 H 11.387922 Z"
+       style="fill:#00d600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1233"
+       d="m 2.1169904,291.69771 3.7041393,-6.34996 h 8.9957663 l -3.704139,6.34996 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1235"
+       d="m 6.3502927,285.87692 -1.650988,2.79398 0.0635,0.91016 5.037629,0.55033 2.6246483,-2.01082 1.33349,-2.24365 z"
+       style="fill:#492901;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1237"
+       d="m 12.425081,288.12057 c -0.169332,-0.0635 -0.338664,-0.127 -0.507996,-0.127 -0.190499,0 -0.380998,0.0847 -0.55033,0.16933 -0.169332,0.10583 -0.338664,0.23283 -0.507996,0.381 -0.169332,0.127 -0.338664,0.254 -0.507996,0.35983 -0.169332,0.0847 -0.3598303,0.14816 -0.5503293,0.14816 -0.190499,0 -0.380997,-0.0635 -0.550329,-0.14816 -0.169332,-0.10583 -0.338664,-0.23283 -0.507996,-0.35983 -0.169333,-0.14817 -0.338665,-0.27517 -0.507997,-0.381 -0.169332,-0.0847 -0.35983,-0.16933 -0.550329,-0.16933 -0.190499,0 -0.380997,0.0847 -0.550329,0.16933 -0.169333,0.10583 -0.338665,0.23283 -0.507997,0.381 -0.169332,0.127 -0.338664,0.254 -0.507996,0.35983 -0.169332,0.0847 -0.359831,0.14816 -0.550329,0.14816 -0.190499,0 -0.380997,-0.0635 -0.550329,-0.14816 -0.105833,-0.0635 -0.211665,-0.14817 -0.317498,-0.23283 l -1.5239889,2.49764 h 7.4082782 z"
+       style="fill:#e0dc0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

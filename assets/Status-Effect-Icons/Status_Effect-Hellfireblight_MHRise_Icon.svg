@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Status Effect-Hellfireblight MHRise Icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5310976"
+     inkscape:cx="62.166712"
+     inkscape:cy="73.375245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <path
+       style="fill:#8500fd;fill-opacity:1;stroke:#000000;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.896403,267.23472 c 10.001478,-1.25657 13.128502,3.7199 13.128502,7.58762 0,3.86772 -3.005325,6.45491 -3.005325,7.65704 0,1.20213 0.391999,2.45653 1.20213,2.45653 0.810131,0 0.836265,-2.58719 0.365866,-4.23359 2.40426,0.96693 4.782386,6.01065 1.959994,9.56478 -2.822392,3.55412 -12.455719,4.73319 -15.7819395,-2.32579 -3.326222,-7.05898 5.7462425,-11.14429 6.8372315,-15.2267 1.145698,-4.28713 -4.706459,-5.47989 -4.706459,-5.47989 z"
+       id="path1075"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccssc" />
+    <path
+       style="fill:#5c1489;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.152965,270.05363 c 0.960909,5.10021 -1.995733,8.2786 -4.361045,10.08954 -2.365313,1.81094 -3.584928,6.50461 0.147832,8.75905 3.732759,2.25444 7.317686,0.14783 8.278595,-1.18266 -1.700069,0.81308 -3.000525,1.08239 -4.434962,-1.92181 -1.958775,-4.10234 1.29353,-5.61762 2.402271,-8.75905 1.023225,-2.89914 -2.032691,-6.98507 -2.032691,-6.98507 z"
+       id="path1092"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscssc" />
+    <path
+       style="fill:#b79fff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.949924,280.71095 c -0.419534,1.17119 -2.901772,2.37735 -2.639564,4.68478 0.3288,2.89345 4.509983,2.90178 4.509983,2.90178 -4.041614,-3.41318 -1.741854,-4.36632 -1.870419,-7.58656 z"
+       id="path1094"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+  </g>
+</svg>

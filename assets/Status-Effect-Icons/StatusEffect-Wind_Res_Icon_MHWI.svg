@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg1401"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="StatusEffect-Wind Res Icon MHW.svg">
+  <defs
+     id="defs1395">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-9" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6919"
+       x="-0.049787235"
+       width="1.0995744"
+       y="-0.075483873"
+       height="1.1509677">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25796875"
+         id="feGaussianBlur6921" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="44.133401"
+     inkscape:cy="30.752645"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1398">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6919)"
+       d="m 2.2489583,284.43228 h 2.645834 c 0.59492,0 2.049954,1.71865 2.645833,2.91041 0.7937498,1.5875 1.6798688,3.70417 2.1166668,3.70417 h 2.3812499 c 0,0 1.322916,0 1.322916,-1.32292 v -2.11666 c 0,0 0,-1.05834 -1.058333,-1.05834 h -1.322916 c 0,0 -0.529167,0 -0.529167,0.52917 v 0.79375 c 0,0 0,0.52917 0.529166,0.52917 h 0.264584 c 0,0 0.264582,0 0.264582,-0.26459 0,-0.26458 0.264584,-0.26458 0.264584,-0.26458 0,0 0.264584,0 0.264584,0.26458 v 0.79375 c 0,0 0,0.52917 -0.529167,0.52917 h -1.322917 c 0,0 -1.0583329,0 -1.0583329,-1.5875 v -1.32292 c 0,0 0,-1.32291 1.5874999,-1.32291 h 2.38125 c 0,0 1.5875,0 1.5875,1.85208 v 3.175 c 0,0 0,2.38125 -2.38125,2.38125 H 8.8635421 c -1.3229178,0 -2.9104168,-6.87917 -4.7624998,-6.87917 h -1.852084 z"
+       id="path3439-7-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscscscscscscscscscscscssscc" />
+    <path
+       style="display:inline;fill:#84ad6b;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.2489583,284.43228 h 2.645834 c 0.59492,0 2.049954,1.71865 2.645833,2.91041 0.7937504,1.5875 1.6798693,3.70417 2.1166673,3.70417 h 2.3812494 c 0,0 1.322916,0 1.322916,-1.32292 v -2.11666 c 0,0 0,-1.05834 -1.058333,-1.05834 H 10.98021 c 0,0 -0.529167,0 -0.529167,0.52917 v 0.79375 c 0,0 0,0.52917 0.529166,0.52917 h 0.264584 c 0,0 0.264582,0 0.264582,-0.26459 0,-0.26458 0.264583,-0.26458 0.264583,-0.26458 0,0 0.264584,0 0.264584,0.26458 v 0.79375 c 0,0 0,0.52917 -0.529166,0.52917 h -1.322917 c 0,0 -1.0583333,0 -1.0583333,-1.5875 v -1.32292 c 0,0 0,-1.32291 1.5875003,-1.32291 h 2.381249 c 0,0 1.5875,0 1.5875,1.85208 v 3.175 c 0,0 0,2.38125 -2.38125,2.38125 H 8.8635426 c -1.3229183,0 -2.9104173,-6.87917 -4.7625003,-6.87917 h -1.852084 z"
+       id="path3439-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscscscscscscscscscscscssscc" />
+  </g>
+</svg>

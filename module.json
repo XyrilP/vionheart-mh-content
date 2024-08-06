@@ -1,0 +1,166 @@
+{
+  "id": "vionheart-mh-content",
+  "title": "Vionheart MH Content",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "vionheart-content",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Fan-made Monster Hunter content for the Vionheart campaign.",
+  "authors": [
+    {
+      "name": "Xyril P.",
+      "discord": "xyrilp.",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "vionheart-mh-items",
+      "label": "Vionheart MH Items",
+      "path": "packs/vionheart-mh-items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vionheart-mh-feats",
+      "label": "Vionheart MH Feats",
+      "path": "packs/vionheart-mh-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vionheart-mh-effects",
+      "label": "Vionheart MH Effects",
+      "path": "packs/vionheart-mh-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vionheart-mh-monsters",
+      "label": "Vionheart MH Monsters",
+      "path": "packs/vionheart-mh-monsters",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vionheart-mh-actions",
+      "label": "Vionheart MH Actions",
+      "path": "packs/vionheart-mh-actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+	"flags": {
+        "vionheart-mh-content": {
+            "pf2e-homebrew": {
+                "skills": {
+                    "additional": {}
+                },
+                "baseArmors": {},
+                "baseWeapons": {
+					"great-sword": "Great Sword",
+					"long-sword": "Long Sword",
+					"sword-and-shield": "Sword & Shield",
+					"dual-blades": "Dual Blades",
+					"hunting-hammer": "Hunting Hammer",
+					"hunting-horn": "Hunting Horn",
+					"hunting-lance": "Hunting Lance",
+					"gunlance": "Gunlance",
+					"switch-axe": "Switch Axe",
+					"insect-glaive": "Insect Glaive",
+					"charge-blade": "Charge Blade",
+					"light-bowgun": "Light Bowgun",
+					"heavy-bowgun": "Heavy Bowgun",
+					"hunting-bow": "Hunting Bow"
+				},
+                "languages": {
+				},
+                "weaponGroups": {},
+                "creatureTraits": {
+				},
+                "featTraits": {
+					"hunter": {
+						"label": "Hunter",
+						"description": "You can take a Hunter feat as long as you meet the prerequisites, regardless of what class you have."
+					},
+						"great-sword": "Great Sword",
+						"long-sword": "Long Sword",
+						"sword-and-shield": "Sword & Shield",
+						"dual-blades": "Dual Blades",
+						"hunting-hammer": "Hunting Hammer",
+						"hunting-horn": "Hunting Horn",
+						"hunting-lance": "Hunting Lance",
+						"gunlance": "Gunlance",
+						"switch-axe": "Switch Axe",
+						"insect-glaive": "Insect Glaive",
+						"charge-blade": "Charge Blade",
+						"light-bowgun": "Light Bowgun",
+						"heavy-bowgun": "Heavy Bowgun",
+						"hunting-bow": "Hunting Bow",
+					"hunter-art": "Hunter Art",
+					"hunter-style": "Hunter Style"
+				},
+                "spellTraits": {
+                },
+                "weaponTraits": {
+					"deadly-2d12": "Deadly 2d12"
+                },
+				"equipmentTraits": {
+					"hunter": "Hunter",
+						"great-sword": "Great Sword",
+						"long-sword": "Long Sword",
+						"sword-and-shield": "Sword & Shield",
+						"dual-blades": "Dual Blades",
+						"hunting-hammer": "Hunting Hammer",
+						"hunting-horn": "Hunting Horn",
+						"hunting-lance": "Hunting Lance",
+						"gunlance": "Gunlance",
+						"switch-axe": "Switch Axe",
+						"insect-glaive": "Insect Glaive",
+						"charge-blade": "Charge Blade",
+						"light-bowgun": "Light Bowgun",
+						"heavy-bowgun": "Heavy Bowgun",
+						"hunting-bow": "Hunting Bow"
+				}
+            }
+        }
+    }
+}
