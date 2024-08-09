@@ -3,7 +3,7 @@
   "title": "Vionheart Content (Monster Hunter)",
   "manifest": "https://raw.githubusercontent.com/XyrilP/vionheart-mh-content/main/module.json",
   "download": "https://github.com/XyrilP/vionheart-mh-content/archive/refs/heads/main.zip",
-  "version": "6.3.1.2",
+  "version": "6.3.1.4",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -95,62 +95,79 @@
           "long-sword": "Long Sword",
           "sword-and-shield": "Sword & Shield",
           "dual-blades": "Dual Blades",
-          "hunting-hammer": "Hunting Hammer",
+          "hunting-hammer": "Hammer",
           "hunting-horn": "Hunting Horn",
-          "hunting-lance": "Hunting Lance",
+          "hunting-lance": "Lance",
           "gunlance": "Gunlance",
           "switch-axe": "Switch Axe",
           "insect-glaive": "Insect Glaive",
           "charge-blade": "Charge Blade",
           "light-bowgun": "Light Bowgun",
           "heavy-bowgun": "Heavy Bowgun",
-          "hunting-bow": "Hunting Bow"
+          "hunting-bow": "Bow"
         },
         "languages": {},
         "weaponGroups": {},
         "creatureTraits": {},
         "featTraits": {
-          "hunter": {
-            "label": "Hunter",
-            "description": "You can take a Hunter feat as long as you meet the prerequisites, regardless of what class you have."
-          },
+          "hunter": "Monster Hunter",
           "great-sword": "Great Sword",
           "long-sword": "Long Sword",
           "sword-and-shield": "Sword & Shield",
           "dual-blades": "Dual Blades",
-          "hunting-hammer": "Hunting Hammer",
+          "hunting-hammer": "Hammer",
           "hunting-horn": "Hunting Horn",
-          "hunting-lance": "Hunting Lance",
+          "hunting-lance": "Lance",
           "gunlance": "Gunlance",
           "switch-axe": "Switch Axe",
           "insect-glaive": "Insect Glaive",
           "charge-blade": "Charge Blade",
           "light-bowgun": "Light Bowgun",
           "heavy-bowgun": "Heavy Bowgun",
-          "hunting-bow": "Hunting Bow",
+          "hunting-bow": "Bow",
           "hunter-art": "Hunter Art",
           "hunter-style": "Hunter Style"
         },
         "spellTraits": {},
         "weaponTraits": {
-          "deadly-2d12": "Deadly 2d12"
+          "deadly-2d12": "Deadly 2d12",
+		  "hunting-shield": {
+			  "label": "Hunting Shield",
+			  "description": "In order to use this weapon properly, you must hold a shield."
+		  },
+		  "hunting-shield-buckler": {
+			  "label": "Hunting Shield (Buckler)",
+			  "description": "In order to use this weapon properly, you must hold a Buckler."
+		  },
+		  "hunting-shield-tower-shield": {
+			  "label": "Hunting Shield (Tower Shield)",
+			  "description": "In order to use this weapon properly, you must hold a Tower Shield."
+		  },
+		  "dual-blades": {
+			  "label": "Dual Blades",
+			  "description": "In order to use this weapon properly, you must hold two Dual Blades weapon, one on each hand."
+		  },
+		  "switch-mode": {
+			  "label": "Switch Mode",
+			  "description": "This weapon can take the Switch Mode action, altering its properties."
+		  }
         },
         "equipmentTraits": {
-          "hunter": "Hunter",
+          "hunter": "Monster Hunter",
           "great-sword": "Great Sword",
           "long-sword": "Long Sword",
           "sword-and-shield": "Sword & Shield",
           "dual-blades": "Dual Blades",
-          "hunting-hammer": "Hunting Hammer",
+          "hunting-hammer": "Hammer",
           "hunting-horn": "Hunting Horn",
-          "hunting-lance": "Hunting Lance",
+          "hunting-lance": "Lance",
           "gunlance": "Gunlance",
           "switch-axe": "Switch Axe",
           "insect-glaive": "Insect Glaive",
           "charge-blade": "Charge Blade",
           "light-bowgun": "Light Bowgun",
           "heavy-bowgun": "Heavy Bowgun",
-          "hunting-bow": "Hunting Bow"
+          "hunting-bow": "Bow"
         }
       }
     }
