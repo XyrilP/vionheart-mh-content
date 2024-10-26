@@ -3,7 +3,7 @@
   "title": "Vionheart Content (Monster Hunter)",
   "manifest": "https://raw.githubusercontent.com/XyrilP/vionheart-mh-content/main/module.json",
   "download": "https://github.com/XyrilP/vionheart-mh-content/archive/refs/heads/main.zip",
-  "version": "7.2",
+  "version": "7.2.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -83,6 +83,27 @@
       }
     }
   ],
+      "packFolders": [
+        {
+            "name": "Vionheart Content",
+            "color": "#C864C8",
+            "sorting": "a",
+            "folders": [
+                {
+                    "name": "Monster Hunter",
+                    "sorting": "a",
+                    "color": "#32C832",
+                    "packs": [
+						"vionheart-mh-monsters",
+						"vionheart-mh-items",
+						"vionheart-mh-feats",
+						"vionheart-mh-effects",
+						"vionheart-mh-actions"
+                    ]
+                }
+            ]
+        }
+    ],
   "flags": {
     "vionheart-mh-content": {
       "pf2e-homebrew": {
