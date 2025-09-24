@@ -6,8 +6,8 @@
   "version": "8.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12",
-    "maximum": "12"
+    "verified": "13",
+    "maximum": "13"
   },
   "relationships": {
     "systems": [
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "description": "Fan-made Monster Hunter content for the Vionheart campaign.",
+  "description": "<p>Fan-made Monster Hunter content for the Vionheart campaign.</p>",
   "authors": [
     {
       "name": "Xyril P.",
@@ -83,27 +83,29 @@
       }
     }
   ],
-      "packFolders": [
+  "packFolders": [
+    {
+      "name": "Vionheart Content",
+      "color": "#c864c8",
+      "sorting": "a",
+      "folders": [
         {
-            "name": "Vionheart Content",
-            "color": "#C864C8",
-            "sorting": "a",
-            "folders": [
-                {
-                    "name": "Monster Hunter",
-                    "sorting": "a",
-                    "color": "#32C832",
-                    "packs": [
-						"vionheart-mh-monsters",
-						"vionheart-mh-items",
-						"vionheart-mh-feats",
-						"vionheart-mh-effects",
-						"vionheart-mh-actions"
-                    ]
-                }
-            ]
+          "name": "Monster Hunter",
+          "sorting": "a",
+          "color": "#32c832",
+          "packs": [
+            "vionheart-mh-monsters",
+            "vionheart-mh-items",
+            "vionheart-mh-feats",
+            "vionheart-mh-effects",
+            "vionheart-mh-actions"
+          ],
+          "folders": []
         }
-    ],
+      ],
+      "packs": []
+    }
+  ],
   "flags": {
     "vionheart-mh-content": {
       "pf2e-homebrew": {
@@ -151,28 +153,28 @@
         },
         "spellTraits": {},
         "weaponTraits": {
-		  "hunter": "Monster Hunter",
+          "hunter": "Monster Hunter",
           "deadly-2d12": "Deadly 2d12",
-		  "hunting-shield": {
-			  "label": "Hunting Shield",
-			  "description": "In order to use this weapon properly, you must hold a shield."
-		  },
-		  "hunting-shield-buckler": {
-			  "label": "Hunting Shield (Buckler)",
-			  "description": "In order to use this weapon properly, you must hold a Buckler."
-		  },
-		  "hunting-shield-tower-shield": {
-			  "label": "Hunting Shield (Tower Shield)",
-			  "description": "In order to use this weapon properly, you must hold a Tower Shield."
-		  },
-		  "dual-blades": {
-			  "label": "Dual Blades",
-			  "description": "In order to use this weapon properly, you must hold two Dual Blades weapon, one on each hand."
-		  },
-		  "switch-mode": {
-			  "label": "Switch Mode",
-			  "description": "This weapon can take the Switch Mode action, altering its properties."
-		  }
+          "hunting-shield": {
+            "label": "Hunting Shield",
+            "description": "In order to use this weapon properly, you must hold a shield."
+          },
+          "hunting-shield-buckler": {
+            "label": "Hunting Shield (Buckler)",
+            "description": "In order to use this weapon properly, you must hold a Buckler."
+          },
+          "hunting-shield-tower-shield": {
+            "label": "Hunting Shield (Tower Shield)",
+            "description": "In order to use this weapon properly, you must hold a Tower Shield."
+          },
+          "dual-blades": {
+            "label": "Dual Blades",
+            "description": "In order to use this weapon properly, you must hold two Dual Blades weapon, one on each hand."
+          },
+          "switch-mode": {
+            "label": "Switch Mode",
+            "description": "This weapon can take the Switch Mode action, altering its properties."
+          }
         },
         "equipmentTraits": {
           "hunter": "Monster Hunter",
